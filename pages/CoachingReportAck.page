@@ -1,0 +1,9 @@
+<apex:page standardcontroller="Coaching_Report_vod__c" extensions="Coaching_Report_ext" action="{!acknowledgeMe}">
+  <apex:form >
+  <table>
+  <tr><td><h1>Acknowledging Coaching Report...</h1></td></tr>
+  <tr><td><apex:messages /></td></tr>
+  <tr><td><apex:commandButton value="Return to Coaching Report" action="{!cancel}"/></td></tr>
+  </table>
+  </apex:form>
+</apex:page>

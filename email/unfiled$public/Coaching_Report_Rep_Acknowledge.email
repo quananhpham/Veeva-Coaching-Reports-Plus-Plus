@@ -1,0 +1,3 @@
+Please acknowledge the coaching report submitted by {!Coaching_Report_vod__c.Manager_vod__c} using the following link: 
+
+https://na11.salesforce.com/{!Coaching_Report_vod__c.Id}
